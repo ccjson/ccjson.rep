@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bash.origin.workspace": "^0.3.1"
+  },
+  "scripts": {
+    "test": "bash.origin.test examples"
+  }
+}
